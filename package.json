@@ -10,7 +10,7 @@
     "gatsby-link": "^1.6.44",
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-source-wordpress": "^2.0.85",
-    "npm": "^6.0.1",
+    "npm": "^6.14.7",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-helmet": "^5.2.0",
