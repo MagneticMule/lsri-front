@@ -11,7 +11,7 @@
     "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-source-wordpress": "^2.0.85",
     "npm": "^6.0.1",
-    "prop-types": "^15.6.1",
+    "prop-types": "^15.7.2",
     "react": "^16.3.2",
     "react-helmet": "^5.2.0",
     "save": "^2.3.2"
